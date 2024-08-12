@@ -1,0 +1,47 @@
+*{
+    font-style: sans-serif;
+    background-color: rgb(237, 247, 204) ;
+}
+
+h1{
+    font-size: 24px;
+    font-weight: 900;
+    color: #242424;
+}
+h2{
+    font-size: 20px;
+    color: #606060;
+    font-weight: 800;
+}
+p{
+    font-size: 14px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+ul{
+    margin-left: 100px;
+    padding: 20px;
+    border: solid 2px blue;
+    width: 40%;
+}
+
+li{
+    font-family: monospace;
+    font-size: 18px;
+    list-style: none;
+    padding: 10px;
+}
+
+li:hover, a:hover{
+    background-color: rgba(219, 13, 6, 0.1);
+}
+
+a{
+    font-weight: bold;
+    color: orange;
+    text-decoration: underline;
+}
+
+.provincia{
+    color: green;
+}
